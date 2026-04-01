@@ -13,4 +13,8 @@ To remind myself what I have done:
 
 **4.** Till just now, the readme file is edited in R.
 
-**5.** After editing, I used "git add README.md", "git commit -m "update README", and "git push" in terminal.
+**5.** After editing, I used "cd GDP_and_CO2", "git add README.md", "git commit -m "update README", and "git push" in terminal.
+
+**NOTE:** Since I have set SSH key, when using git clone, I should copy "git@github.com:elena-xia/GDP_and_CO2.git" in the green button "code", thus no need to meet "password" issue.
+
+
